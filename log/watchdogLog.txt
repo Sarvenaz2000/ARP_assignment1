@@ -1,0 +1,1158 @@
+[2024-12-04 17:36:20] Received signal 12 from process 15862
+[2024-12-04 17:36:20] Received signal 12 from process 15878
+[2024-12-04 17:36:20] Received signal 12 from process 15864
+[2024-12-04 17:36:20] Received signal 12 from process 15865
+[2024-12-04 17:36:20] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:20] Received signal 12 from process 15862
+[2024-12-04 17:36:20] Received signal 12 from process 15878
+[2024-12-04 17:36:20] Received signal 12 from process 15864
+[2024-12-04 17:36:20] Received signal 12 from process 15865
+[2024-12-04 17:36:20] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:20] Received signal 12 from process 15862
+[2024-12-04 17:36:20] Received signal 12 from process 15878
+[2024-12-04 17:36:20] Received signal 12 from process 15864
+[2024-12-04 17:36:21] Received signal 12 from process 15865
+[2024-12-04 17:36:21] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:21] Received signal 12 from process 15862
+[2024-12-04 17:36:21] Received signal 12 from process 15878
+[2024-12-04 17:36:21] Received signal 12 from process 15864
+[2024-12-04 17:36:21] Received signal 12 from process 15865
+[2024-12-04 17:36:21] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:21] Received signal 12 from process 15862
+[2024-12-04 17:36:21] Received signal 12 from process 15878
+[2024-12-04 17:36:21] Received signal 12 from process 15864
+[2024-12-04 17:36:21] Received signal 12 from process 15865
+[2024-12-04 17:36:21] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:21] Received signal 12 from process 15862
+[2024-12-04 17:36:21] Received signal 12 from process 15878
+[2024-12-04 17:36:21] Received signal 12 from process 15864
+[2024-12-04 17:36:21] Received signal 12 from process 15865
+[2024-12-04 17:36:21] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:21] Received signal 12 from process 15862
+[2024-12-04 17:36:21] Received signal 12 from process 15878
+[2024-12-04 17:36:21] Received signal 12 from process 15864
+[2024-12-04 17:36:21] Received signal 12 from process 15865
+[2024-12-04 17:36:21] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:21] Received signal 12 from process 15862
+[2024-12-04 17:36:21] Received signal 12 from process 15878
+[2024-12-04 17:36:21] Received signal 12 from process 15864
+[2024-12-04 17:36:21] Received signal 12 from process 15865
+[2024-12-04 17:36:21] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:21] Received signal 12 from process 15862
+[2024-12-04 17:36:21] Received signal 12 from process 15878
+[2024-12-04 17:36:21] Received signal 12 from process 15864
+[2024-12-04 17:36:21] Received signal 12 from process 15865
+[2024-12-04 17:36:21] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:21] Received signal 12 from process 15862
+[2024-12-04 17:36:21] Received signal 12 from process 15878
+[2024-12-04 17:36:21] Received signal 12 from process 15864
+[2024-12-04 17:36:21] Received signal 12 from process 15865
+[2024-12-04 17:36:21] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:21] Received signal 12 from process 15862
+[2024-12-04 17:36:21] Received signal 12 from process 15878
+[2024-12-04 17:36:21] Received signal 12 from process 15864
+[2024-12-04 17:36:21] Received signal 12 from process 15865
+[2024-12-04 17:36:21] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:21] Received signal 12 from process 15862
+[2024-12-04 17:36:21] Received signal 12 from process 15878
+[2024-12-04 17:36:21] Received signal 12 from process 15864
+[2024-12-04 17:36:22] Received signal 12 from process 15865
+[2024-12-04 17:36:22] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:22] Received signal 12 from process 15862
+[2024-12-04 17:36:22] Received signal 12 from process 15878
+[2024-12-04 17:36:22] Received signal 12 from process 15864
+[2024-12-04 17:36:22] Received signal 12 from process 15865
+[2024-12-04 17:36:22] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:22] Received signal 12 from process 15862
+[2024-12-04 17:36:22] Received signal 12 from process 15878
+[2024-12-04 17:36:22] Received signal 12 from process 15864
+[2024-12-04 17:36:22] Received signal 12 from process 15865
+[2024-12-04 17:36:22] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:22] Received signal 12 from process 15862
+[2024-12-04 17:36:22] Received signal 12 from process 15878
+[2024-12-04 17:36:22] Received signal 12 from process 15864
+[2024-12-04 17:36:22] Received signal 12 from process 15865
+[2024-12-04 17:36:22] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:22] Received signal 12 from process 15862
+[2024-12-04 17:36:22] Received signal 12 from process 15878
+[2024-12-04 17:36:22] Received signal 12 from process 15864
+[2024-12-04 17:36:22] Received signal 12 from process 15865
+[2024-12-04 17:36:22] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:22] Received signal 12 from process 15862
+[2024-12-04 17:36:22] Received signal 12 from process 15878
+[2024-12-04 17:36:22] Received signal 12 from process 15864
+[2024-12-04 17:36:22] Received signal 12 from process 15865
+[2024-12-04 17:36:22] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:22] Received signal 12 from process 15862
+[2024-12-04 17:36:22] Received signal 12 from process 15878
+[2024-12-04 17:36:22] Received signal 12 from process 15864
+[2024-12-04 17:36:22] Received signal 12 from process 15865
+[2024-12-04 17:36:22] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:22] Received signal 12 from process 15862
+[2024-12-04 17:36:22] Received signal 12 from process 15878
+[2024-12-04 17:36:22] Received signal 12 from process 15864
+[2024-12-04 17:36:22] Received signal 12 from process 15865
+[2024-12-04 17:36:22] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:22] Received signal 12 from process 15862
+[2024-12-04 17:36:22] Received signal 12 from process 15878
+[2024-12-04 17:36:22] Received signal 12 from process 15864
+[2024-12-04 17:36:22] Received signal 12 from process 15865
+[2024-12-04 17:36:22] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:22] Received signal 12 from process 15862
+[2024-12-04 17:36:22] Received signal 12 from process 15878
+[2024-12-04 17:36:22] Received signal 12 from process 15864
+[2024-12-04 17:36:22] Received signal 12 from process 15865
+[2024-12-04 17:36:22] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:22] Received signal 12 from process 15862
+[2024-12-04 17:36:22] Received signal 12 from process 15878
+[2024-12-04 17:36:22] Received signal 12 from process 15864
+[2024-12-04 17:36:23] Received signal 12 from process 15865
+[2024-12-04 17:36:23] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:23] Received signal 12 from process 15862
+[2024-12-04 17:36:23] Received signal 12 from process 15878
+[2024-12-04 17:36:23] Received signal 12 from process 15864
+[2024-12-04 17:36:23] Received signal 12 from process 15865
+[2024-12-04 17:36:23] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:23] Received signal 12 from process 15862
+[2024-12-04 17:36:23] Received signal 12 from process 15878
+[2024-12-04 17:36:23] Received signal 12 from process 15864
+[2024-12-04 17:36:23] Received signal 12 from process 15865
+[2024-12-04 17:36:23] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:23] Received signal 12 from process 15862
+[2024-12-04 17:36:23] Received signal 12 from process 15878
+[2024-12-04 17:36:23] Received signal 12 from process 15864
+[2024-12-04 17:36:23] Received signal 12 from process 15865
+[2024-12-04 17:36:23] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:23] Received signal 12 from process 15862
+[2024-12-04 17:36:23] Received signal 12 from process 15878
+[2024-12-04 17:36:23] Received signal 12 from process 15864
+[2024-12-04 17:36:23] Received signal 12 from process 15865
+[2024-12-04 17:36:23] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:23] Received signal 12 from process 15862
+[2024-12-04 17:36:23] Received signal 12 from process 15878
+[2024-12-04 17:36:23] Received signal 12 from process 15864
+[2024-12-04 17:36:23] Received signal 12 from process 15865
+[2024-12-04 17:36:23] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:23] Received signal 12 from process 15862
+[2024-12-04 17:36:23] Received signal 12 from process 15878
+[2024-12-04 17:36:23] Received signal 12 from process 15864
+[2024-12-04 17:36:23] Received signal 12 from process 15865
+[2024-12-04 17:36:23] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:23] Received signal 12 from process 15862
+[2024-12-04 17:36:23] Received signal 12 from process 15878
+[2024-12-04 17:36:23] Received signal 12 from process 15864
+[2024-12-04 17:36:23] Received signal 12 from process 15865
+[2024-12-04 17:36:23] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:23] Received signal 12 from process 15862
+[2024-12-04 17:36:23] Received signal 12 from process 15878
+[2024-12-04 17:36:23] Received signal 12 from process 15864
+[2024-12-04 17:36:23] Received signal 12 from process 15865
+[2024-12-04 17:36:23] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:23] Received signal 12 from process 15862
+[2024-12-04 17:36:23] Received signal 12 from process 15878
+[2024-12-04 17:36:23] Received signal 12 from process 15864
+[2024-12-04 17:36:23] Received signal 12 from process 15865
+[2024-12-04 17:36:23] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:23] Received signal 12 from process 15862
+[2024-12-04 17:36:23] Received signal 12 from process 15878
+[2024-12-04 17:36:23] Received signal 12 from process 15864
+[2024-12-04 17:36:24] Received signal 12 from process 15865
+[2024-12-04 17:36:24] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:24] Received signal 12 from process 15862
+[2024-12-04 17:36:24] Received signal 12 from process 15878
+[2024-12-04 17:36:24] Received signal 12 from process 15864
+[2024-12-04 17:36:24] Received signal 12 from process 15865
+[2024-12-04 17:36:24] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:24] Received signal 12 from process 15862
+[2024-12-04 17:36:24] Received signal 12 from process 15878
+[2024-12-04 17:36:24] Received signal 12 from process 15864
+[2024-12-04 17:36:24] Received signal 12 from process 15865
+[2024-12-04 17:36:24] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:24] Received signal 12 from process 15862
+[2024-12-04 17:36:24] Received signal 12 from process 15878
+[2024-12-04 17:36:24] Received signal 12 from process 15864
+[2024-12-04 17:36:24] Received signal 12 from process 15865
+[2024-12-04 17:36:24] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:24] Received signal 12 from process 15862
+[2024-12-04 17:36:24] Received signal 12 from process 15878
+[2024-12-04 17:36:24] Received signal 12 from process 15864
+[2024-12-04 17:36:24] Received signal 12 from process 15865
+[2024-12-04 17:36:24] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:24] Received signal 12 from process 15862
+[2024-12-04 17:36:24] Received signal 12 from process 15878
+[2024-12-04 17:36:24] Received signal 12 from process 15864
+[2024-12-04 17:36:24] Received signal 12 from process 15865
+[2024-12-04 17:36:24] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:24] Received signal 12 from process 15862
+[2024-12-04 17:36:24] Received signal 12 from process 15878
+[2024-12-04 17:36:24] Received signal 12 from process 15864
+[2024-12-04 17:36:24] Received signal 12 from process 15865
+[2024-12-04 17:36:24] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:24] Received signal 12 from process 15862
+[2024-12-04 17:36:24] Received signal 12 from process 15878
+[2024-12-04 17:36:24] Received signal 12 from process 15864
+[2024-12-04 17:36:24] Received signal 12 from process 15865
+[2024-12-04 17:36:24] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:24] Received signal 12 from process 15862
+[2024-12-04 17:36:24] Received signal 12 from process 15878
+[2024-12-04 17:36:24] Received signal 12 from process 15864
+[2024-12-04 17:36:24] Received signal 12 from process 15865
+[2024-12-04 17:36:24] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:24] Received signal 12 from process 15862
+[2024-12-04 17:36:24] Received signal 12 from process 15878
+[2024-12-04 17:36:24] Received signal 12 from process 15864
+[2024-12-04 17:36:24] Received signal 12 from process 15865
+[2024-12-04 17:36:24] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:24] Received signal 12 from process 15862
+[2024-12-04 17:36:24] Received signal 12 from process 15878
+[2024-12-04 17:36:24] Received signal 12 from process 15864
+[2024-12-04 17:36:25] Received signal 12 from process 15865
+[2024-12-04 17:36:25] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:25] Received signal 12 from process 15862
+[2024-12-04 17:36:25] Received signal 12 from process 15878
+[2024-12-04 17:36:25] Received signal 12 from process 15864
+[2024-12-04 17:36:25] Received signal 12 from process 15865
+[2024-12-04 17:36:25] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:25] Received signal 12 from process 15862
+[2024-12-04 17:36:25] Received signal 12 from process 15878
+[2024-12-04 17:36:25] Received signal 12 from process 15864
+[2024-12-04 17:36:25] Received signal 12 from process 15865
+[2024-12-04 17:36:25] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:25] Received signal 12 from process 15862
+[2024-12-04 17:36:25] Received signal 12 from process 15878
+[2024-12-04 17:36:25] Received signal 12 from process 15864
+[2024-12-04 17:36:25] Received signal 12 from process 15865
+[2024-12-04 17:36:25] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:25] Received signal 12 from process 15862
+[2024-12-04 17:36:25] Received signal 12 from process 15878
+[2024-12-04 17:36:25] Received signal 12 from process 15864
+[2024-12-04 17:36:25] Received signal 12 from process 15865
+[2024-12-04 17:36:25] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:25] Received signal 12 from process 15862
+[2024-12-04 17:36:25] Received signal 12 from process 15878
+[2024-12-04 17:36:25] Received signal 12 from process 15864
+[2024-12-04 17:36:25] Received signal 12 from process 15865
+[2024-12-04 17:36:25] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:25] Received signal 12 from process 15862
+[2024-12-04 17:36:25] Received signal 12 from process 15878
+[2024-12-04 17:36:25] Received signal 12 from process 15864
+[2024-12-04 17:36:25] Received signal 12 from process 15865
+[2024-12-04 17:36:25] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:25] Received signal 12 from process 15862
+[2024-12-04 17:36:25] Received signal 12 from process 15878
+[2024-12-04 17:36:25] Received signal 12 from process 15864
+[2024-12-04 17:36:25] Received signal 12 from process 15865
+[2024-12-04 17:36:25] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:25] Received signal 12 from process 15862
+[2024-12-04 17:36:25] Received signal 12 from process 15878
+[2024-12-04 17:36:25] Received signal 12 from process 15864
+[2024-12-04 17:36:25] Received signal 12 from process 15865
+[2024-12-04 17:36:25] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:25] Received signal 12 from process 15862
+[2024-12-04 17:36:25] Received signal 12 from process 15878
+[2024-12-04 17:36:25] Received signal 12 from process 15864
+[2024-12-04 17:36:25] Received signal 12 from process 15865
+[2024-12-04 17:36:25] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:25] Received signal 12 from process 15862
+[2024-12-04 17:36:25] Received signal 12 from process 15878
+[2024-12-04 17:36:25] Received signal 12 from process 15864
+[2024-12-04 17:36:26] Received signal 12 from process 15865
+[2024-12-04 17:36:26] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:26] Received signal 12 from process 15862
+[2024-12-04 17:36:26] Received signal 12 from process 15878
+[2024-12-04 17:36:26] Received signal 12 from process 15864
+[2024-12-04 17:36:26] Received signal 12 from process 15865
+[2024-12-04 17:36:26] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:26] Received signal 12 from process 15862
+[2024-12-04 17:36:26] Received signal 12 from process 15878
+[2024-12-04 17:36:26] Received signal 12 from process 15864
+[2024-12-04 17:36:26] Received signal 12 from process 15865
+[2024-12-04 17:36:26] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:26] Received signal 12 from process 15862
+[2024-12-04 17:36:26] Received signal 12 from process 15878
+[2024-12-04 17:36:26] Received signal 12 from process 15864
+[2024-12-04 17:36:26] Received signal 12 from process 15865
+[2024-12-04 17:36:26] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:26] Received signal 12 from process 15862
+[2024-12-04 17:36:26] Received signal 12 from process 15878
+[2024-12-04 17:36:26] Received signal 12 from process 15864
+[2024-12-04 17:36:26] Received signal 12 from process 15865
+[2024-12-04 17:36:26] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:26] Received signal 12 from process 15862
+[2024-12-04 17:36:26] Received signal 12 from process 15878
+[2024-12-04 17:36:26] Received signal 12 from process 15864
+[2024-12-04 17:36:26] Received signal 12 from process 15865
+[2024-12-04 17:36:26] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:26] Received signal 12 from process 15862
+[2024-12-04 17:36:26] Received signal 12 from process 15878
+[2024-12-04 17:36:26] Received signal 12 from process 15864
+[2024-12-04 17:36:26] Received signal 12 from process 15865
+[2024-12-04 17:36:26] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:26] Received signal 12 from process 15862
+[2024-12-04 17:36:26] Received signal 12 from process 15878
+[2024-12-04 17:36:26] Received signal 12 from process 15864
+[2024-12-04 17:36:26] Received signal 12 from process 15865
+[2024-12-04 17:36:26] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:26] Received signal 12 from process 15862
+[2024-12-04 17:36:26] Received signal 12 from process 15878
+[2024-12-04 17:36:26] Received signal 12 from process 15864
+[2024-12-04 17:36:26] Received signal 12 from process 15865
+[2024-12-04 17:36:26] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:26] Received signal 12 from process 15862
+[2024-12-04 17:36:26] Received signal 12 from process 15878
+[2024-12-04 17:36:26] Received signal 12 from process 15864
+[2024-12-04 17:36:27] Received signal 12 from process 15865
+[2024-12-04 17:36:27] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:27] Received signal 12 from process 15862
+[2024-12-04 17:36:27] Received signal 12 from process 15878
+[2024-12-04 17:36:27] Received signal 12 from process 15864
+[2024-12-04 17:36:27] Received signal 12 from process 15865
+[2024-12-04 17:36:27] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:27] Received signal 12 from process 15862
+[2024-12-04 17:36:27] Received signal 12 from process 15878
+[2024-12-04 17:36:27] Received signal 12 from process 15864
+[2024-12-04 17:36:27] Received signal 12 from process 15865
+[2024-12-04 17:36:27] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:27] Received signal 12 from process 15862
+[2024-12-04 17:36:27] Received signal 12 from process 15878
+[2024-12-04 17:36:27] Received signal 12 from process 15864
+[2024-12-04 17:36:27] Received signal 12 from process 15865
+[2024-12-04 17:36:27] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:27] Received signal 12 from process 15862
+[2024-12-04 17:36:27] Received signal 12 from process 15878
+[2024-12-04 17:36:27] Received signal 12 from process 15864
+[2024-12-04 17:36:27] Received signal 12 from process 15865
+[2024-12-04 17:36:27] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:27] Received signal 12 from process 15862
+[2024-12-04 17:36:27] Received signal 12 from process 15878
+[2024-12-04 17:36:27] Received signal 12 from process 15864
+[2024-12-04 17:36:27] Received signal 12 from process 15865
+[2024-12-04 17:36:27] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:27] Received signal 12 from process 15862
+[2024-12-04 17:36:27] Received signal 12 from process 15878
+[2024-12-04 17:36:27] Received signal 12 from process 15864
+[2024-12-04 17:36:27] Received signal 12 from process 15865
+[2024-12-04 17:36:27] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:27] Received signal 12 from process 15862
+[2024-12-04 17:36:27] Received signal 12 from process 15878
+[2024-12-04 17:36:27] Received signal 12 from process 15864
+[2024-12-04 17:36:27] Received signal 12 from process 15865
+[2024-12-04 17:36:27] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:27] Received signal 12 from process 15862
+[2024-12-04 17:36:27] Received signal 12 from process 15878
+[2024-12-04 17:36:27] Received signal 12 from process 15864
+[2024-12-04 17:36:27] Received signal 12 from process 15865
+[2024-12-04 17:36:27] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:27] Received signal 12 from process 15862
+[2024-12-04 17:36:27] Received signal 12 from process 15878
+[2024-12-04 17:36:27] Received signal 12 from process 15864
+[2024-12-04 17:36:27] Received signal 12 from process 15865
+[2024-12-04 17:36:27] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:27] Received signal 12 from process 15862
+[2024-12-04 17:36:27] Received signal 12 from process 15878
+[2024-12-04 17:36:27] Received signal 12 from process 15864
+[2024-12-04 17:36:28] Received signal 12 from process 15865
+[2024-12-04 17:36:28] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:28] Received signal 12 from process 15862
+[2024-12-04 17:36:28] Received signal 12 from process 15878
+[2024-12-04 17:36:28] Received signal 12 from process 15864
+[2024-12-04 17:36:28] Received signal 12 from process 15865
+[2024-12-04 17:36:28] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:28] Received signal 12 from process 15862
+[2024-12-04 17:36:28] Received signal 12 from process 15878
+[2024-12-04 17:36:28] Received signal 12 from process 15864
+[2024-12-04 17:36:28] Received signal 12 from process 15865
+[2024-12-04 17:36:28] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:28] Received signal 12 from process 15862
+[2024-12-04 17:36:28] Received signal 12 from process 15878
+[2024-12-04 17:36:28] Received signal 12 from process 15864
+[2024-12-04 17:36:28] Received signal 12 from process 15865
+[2024-12-04 17:36:28] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:28] Received signal 12 from process 15862
+[2024-12-04 17:36:28] Received signal 12 from process 15878
+[2024-12-04 17:36:28] Received signal 12 from process 15864
+[2024-12-04 17:36:28] Received signal 12 from process 15865
+[2024-12-04 17:36:28] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:28] Received signal 12 from process 15862
+[2024-12-04 17:36:28] Received signal 12 from process 15878
+[2024-12-04 17:36:28] Received signal 12 from process 15864
+[2024-12-04 17:36:28] Received signal 12 from process 15865
+[2024-12-04 17:36:28] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:28] Received signal 12 from process 15862
+[2024-12-04 17:36:28] Received signal 12 from process 15878
+[2024-12-04 17:36:28] Received signal 12 from process 15864
+[2024-12-04 17:36:28] Received signal 12 from process 15865
+[2024-12-04 17:36:28] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:28] Received signal 12 from process 15862
+[2024-12-04 17:36:28] Received signal 12 from process 15878
+[2024-12-04 17:36:28] Received signal 12 from process 15864
+[2024-12-04 17:36:28] Received signal 12 from process 15865
+[2024-12-04 17:36:28] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:28] Received signal 12 from process 15862
+[2024-12-04 17:36:28] Received signal 12 from process 15878
+[2024-12-04 17:36:28] Received signal 12 from process 15864
+[2024-12-04 17:36:28] Received signal 12 from process 15865
+[2024-12-04 17:36:28] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:28] Received signal 12 from process 15862
+[2024-12-04 17:36:28] Received signal 12 from process 15878
+[2024-12-04 17:36:28] Received signal 12 from process 15864
+[2024-12-04 17:36:28] Received signal 12 from process 15865
+[2024-12-04 17:36:28] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:28] Received signal 12 from process 15862
+[2024-12-04 17:36:28] Received signal 12 from process 15878
+[2024-12-04 17:36:28] Received signal 12 from process 15864
+[2024-12-04 17:36:29] Received signal 12 from process 15865
+[2024-12-04 17:36:29] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:29] Received signal 12 from process 15862
+[2024-12-04 17:36:29] Received signal 12 from process 15878
+[2024-12-04 17:36:29] Received signal 12 from process 15864
+[2024-12-04 17:36:29] Received signal 12 from process 15865
+[2024-12-04 17:36:29] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:29] Received signal 12 from process 15862
+[2024-12-04 17:36:29] Received signal 12 from process 15878
+[2024-12-04 17:36:29] Received signal 12 from process 15864
+[2024-12-04 17:36:29] Received signal 12 from process 15865
+[2024-12-04 17:36:29] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:29] Received signal 12 from process 15862
+[2024-12-04 17:36:29] Received signal 12 from process 15878
+[2024-12-04 17:36:29] Received signal 12 from process 15864
+[2024-12-04 17:36:29] Received signal 12 from process 15865
+[2024-12-04 17:36:29] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:29] Received signal 12 from process 15862
+[2024-12-04 17:36:29] Received signal 12 from process 15878
+[2024-12-04 17:36:29] Received signal 12 from process 15864
+[2024-12-04 17:36:29] Received signal 12 from process 15865
+[2024-12-04 17:36:29] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:29] Received signal 12 from process 15862
+[2024-12-04 17:36:29] Received signal 12 from process 15878
+[2024-12-04 17:36:29] Received signal 12 from process 15864
+[2024-12-04 17:36:29] Received signal 12 from process 15865
+[2024-12-04 17:36:29] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:29] Received signal 12 from process 15862
+[2024-12-04 17:36:29] Received signal 12 from process 15878
+[2024-12-04 17:36:29] Received signal 12 from process 15864
+[2024-12-04 17:36:29] Received signal 12 from process 15865
+[2024-12-04 17:36:29] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:29] Received signal 12 from process 15862
+[2024-12-04 17:36:29] Received signal 12 from process 15878
+[2024-12-04 17:36:29] Received signal 12 from process 15864
+[2024-12-04 17:36:29] Received signal 12 from process 15865
+[2024-12-04 17:36:29] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:29] Received signal 12 from process 15862
+[2024-12-04 17:36:29] Received signal 12 from process 15878
+[2024-12-04 17:36:29] Received signal 12 from process 15864
+[2024-12-04 17:36:29] Received signal 12 from process 15865
+[2024-12-04 17:36:29] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:29] Received signal 12 from process 15862
+[2024-12-04 17:36:29] Received signal 12 from process 15878
+[2024-12-04 17:36:29] Received signal 12 from process 15864
+[2024-12-04 17:36:29] Received signal 12 from process 15865
+[2024-12-04 17:36:29] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:29] Received signal 12 from process 15862
+[2024-12-04 17:36:29] Received signal 12 from process 15878
+[2024-12-04 17:36:29] Received signal 12 from process 15864
+[2024-12-04 17:36:30] Received signal 12 from process 15865
+[2024-12-04 17:36:30] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:30] Received signal 12 from process 15862
+[2024-12-04 17:36:30] Received signal 12 from process 15878
+[2024-12-04 17:36:30] Received signal 12 from process 15864
+[2024-12-04 17:36:30] Received signal 12 from process 15865
+[2024-12-04 17:36:30] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:30] Received signal 12 from process 15862
+[2024-12-04 17:36:30] Received signal 12 from process 15878
+[2024-12-04 17:36:30] Received signal 12 from process 15864
+[2024-12-04 17:36:30] Received signal 12 from process 15865
+[2024-12-04 17:36:30] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:30] Received signal 12 from process 15862
+[2024-12-04 17:36:30] Received signal 12 from process 15878
+[2024-12-04 17:36:30] Received signal 12 from process 15864
+[2024-12-04 17:36:30] Received signal 12 from process 15865
+[2024-12-04 17:36:30] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:30] Received signal 12 from process 15862
+[2024-12-04 17:36:30] Received signal 12 from process 15878
+[2024-12-04 17:36:30] Received signal 12 from process 15864
+[2024-12-04 17:36:30] Received signal 12 from process 15865
+[2024-12-04 17:36:30] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:30] Received signal 12 from process 15862
+[2024-12-04 17:36:30] Received signal 12 from process 15878
+[2024-12-04 17:36:30] Received signal 12 from process 15864
+[2024-12-04 17:36:30] Received signal 12 from process 15865
+[2024-12-04 17:36:30] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:30] Received signal 12 from process 15862
+[2024-12-04 17:36:30] Received signal 12 from process 15878
+[2024-12-04 17:36:30] Received signal 12 from process 15864
+[2024-12-04 17:36:30] Received signal 12 from process 15865
+[2024-12-04 17:36:30] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:30] Received signal 12 from process 15862
+[2024-12-04 17:36:30] Received signal 12 from process 15878
+[2024-12-04 17:36:30] Received signal 12 from process 15864
+[2024-12-04 17:36:30] Received signal 12 from process 15865
+[2024-12-04 17:36:30] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:30] Received signal 12 from process 15862
+[2024-12-04 17:36:30] Received signal 12 from process 15878
+[2024-12-04 17:36:30] Received signal 12 from process 15864
+[2024-12-04 17:36:30] Received signal 12 from process 15865
+[2024-12-04 17:36:30] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:30] Received signal 12 from process 15862
+[2024-12-04 17:36:30] Received signal 12 from process 15878
+[2024-12-04 17:36:30] Received signal 12 from process 15864
+[2024-12-04 17:36:30] Received signal 12 from process 15865
+[2024-12-04 17:36:30] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:30] Received signal 12 from process 15862
+[2024-12-04 17:36:30] Received signal 12 from process 15878
+[2024-12-04 17:36:30] Received signal 12 from process 15864
+[2024-12-04 17:36:31] Received signal 12 from process 15865
+[2024-12-04 17:36:31] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:31] Received signal 12 from process 15862
+[2024-12-04 17:36:31] Received signal 12 from process 15878
+[2024-12-04 17:36:31] Received signal 12 from process 15864
+[2024-12-04 17:36:31] Received signal 12 from process 15865
+[2024-12-04 17:36:31] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:31] Received signal 12 from process 15862
+[2024-12-04 17:36:31] Received signal 12 from process 15878
+[2024-12-04 17:36:31] Received signal 12 from process 15864
+[2024-12-04 17:36:31] Received signal 12 from process 15865
+[2024-12-04 17:36:31] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:31] Received signal 12 from process 15862
+[2024-12-04 17:36:31] Received signal 12 from process 15878
+[2024-12-04 17:36:31] Received signal 12 from process 15864
+[2024-12-04 17:36:31] Received signal 12 from process 15865
+[2024-12-04 17:36:31] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:31] Received signal 12 from process 15862
+[2024-12-04 17:36:31] Received signal 12 from process 15878
+[2024-12-04 17:36:31] Received signal 12 from process 15864
+[2024-12-04 17:36:31] Received signal 12 from process 15865
+[2024-12-04 17:36:31] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:31] Received signal 12 from process 15862
+[2024-12-04 17:36:31] Received signal 12 from process 15878
+[2024-12-04 17:36:31] Received signal 12 from process 15864
+[2024-12-04 17:36:31] Received signal 12 from process 15865
+[2024-12-04 17:36:31] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:31] Received signal 12 from process 15862
+[2024-12-04 17:36:31] Received signal 12 from process 15878
+[2024-12-04 17:36:31] Received signal 12 from process 15864
+[2024-12-04 17:36:31] Received signal 12 from process 15865
+[2024-12-04 17:36:31] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:31] Received signal 12 from process 15862
+[2024-12-04 17:36:31] Received signal 12 from process 15878
+[2024-12-04 17:36:31] Received signal 12 from process 15864
+[2024-12-04 17:36:31] Received signal 12 from process 15865
+[2024-12-04 17:36:31] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:31] Received signal 12 from process 15862
+[2024-12-04 17:36:31] Received signal 12 from process 15878
+[2024-12-04 17:36:31] Received signal 12 from process 15864
+[2024-12-04 17:36:31] Received signal 12 from process 15865
+[2024-12-04 17:36:31] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:31] Received signal 12 from process 15862
+[2024-12-04 17:36:31] Received signal 12 from process 15878
+[2024-12-04 17:36:31] Received signal 12 from process 15864
+[2024-12-04 17:36:32] Received signal 12 from process 15865
+[2024-12-04 17:36:32] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:32] Received signal 12 from process 15862
+[2024-12-04 17:36:32] Received signal 12 from process 15878
+[2024-12-04 17:36:32] Received signal 12 from process 15864
+[2024-12-04 17:36:32] Received signal 12 from process 15865
+[2024-12-04 17:36:32] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:32] Received signal 12 from process 15862
+[2024-12-04 17:36:32] Received signal 12 from process 15878
+[2024-12-04 17:36:32] Received signal 12 from process 15864
+[2024-12-04 17:36:32] Received signal 12 from process 15865
+[2024-12-04 17:36:32] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:32] Received signal 12 from process 15862
+[2024-12-04 17:36:32] Received signal 12 from process 15878
+[2024-12-04 17:36:32] Received signal 12 from process 15864
+[2024-12-04 17:36:32] Received signal 12 from process 15865
+[2024-12-04 17:36:32] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:32] Received signal 12 from process 15862
+[2024-12-04 17:36:32] Received signal 12 from process 15878
+[2024-12-04 17:36:32] Received signal 12 from process 15864
+[2024-12-04 17:36:32] Received signal 12 from process 15865
+[2024-12-04 17:36:32] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:32] Received signal 12 from process 15862
+[2024-12-04 17:36:32] Received signal 12 from process 15878
+[2024-12-04 17:36:32] Received signal 12 from process 15864
+[2024-12-04 17:36:32] Received signal 12 from process 15865
+[2024-12-04 17:36:32] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:32] Received signal 12 from process 15862
+[2024-12-04 17:36:32] Received signal 12 from process 15878
+[2024-12-04 17:36:32] Received signal 12 from process 15864
+[2024-12-04 17:36:32] Received signal 12 from process 15865
+[2024-12-04 17:36:32] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:32] Received signal 12 from process 15862
+[2024-12-04 17:36:32] Received signal 12 from process 15878
+[2024-12-04 17:36:32] Received signal 12 from process 15864
+[2024-12-04 17:36:32] Received signal 12 from process 15865
+[2024-12-04 17:36:32] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:32] Received signal 12 from process 15862
+[2024-12-04 17:36:32] Received signal 12 from process 15878
+[2024-12-04 17:36:32] Received signal 12 from process 15864
+[2024-12-04 17:36:32] Received signal 12 from process 15865
+[2024-12-04 17:36:32] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:32] Received signal 12 from process 15862
+[2024-12-04 17:36:32] Received signal 12 from process 15878
+[2024-12-04 17:36:32] Received signal 12 from process 15864
+[2024-12-04 17:36:32] Received signal 12 from process 15865
+[2024-12-04 17:36:32] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:32] Received signal 12 from process 15862
+[2024-12-04 17:36:32] Received signal 12 from process 15878
+[2024-12-04 17:36:32] Received signal 12 from process 15864
+[2024-12-04 17:36:33] Received signal 12 from process 15865
+[2024-12-04 17:36:33] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:33] Received signal 12 from process 15862
+[2024-12-04 17:36:33] Received signal 12 from process 15878
+[2024-12-04 17:36:33] Received signal 12 from process 15864
+[2024-12-04 17:36:33] Received signal 12 from process 15865
+[2024-12-04 17:36:33] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:33] Received signal 12 from process 15862
+[2024-12-04 17:36:33] Received signal 12 from process 15878
+[2024-12-04 17:36:33] Received signal 12 from process 15864
+[2024-12-04 17:36:33] Received signal 12 from process 15865
+[2024-12-04 17:36:33] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:33] Received signal 12 from process 15862
+[2024-12-04 17:36:33] Received signal 12 from process 15878
+[2024-12-04 17:36:33] Received signal 12 from process 15864
+[2024-12-04 17:36:33] Received signal 12 from process 15865
+[2024-12-04 17:36:33] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:33] Received signal 12 from process 15862
+[2024-12-04 17:36:33] Received signal 12 from process 15878
+[2024-12-04 17:36:33] Received signal 12 from process 15864
+[2024-12-04 17:36:33] Received signal 12 from process 15865
+[2024-12-04 17:36:33] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:33] Received signal 12 from process 15862
+[2024-12-04 17:36:33] Received signal 12 from process 15878
+[2024-12-04 17:36:33] Received signal 12 from process 15864
+[2024-12-04 17:36:33] Received signal 12 from process 15865
+[2024-12-04 17:36:33] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:33] Received signal 12 from process 15862
+[2024-12-04 17:36:33] Received signal 12 from process 15878
+[2024-12-04 17:36:33] Received signal 12 from process 15864
+[2024-12-04 17:36:33] Received signal 12 from process 15865
+[2024-12-04 17:36:33] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:33] Received signal 12 from process 15862
+[2024-12-04 17:36:33] Received signal 12 from process 15878
+[2024-12-04 17:36:33] Received signal 12 from process 15864
+[2024-12-04 17:36:33] Received signal 12 from process 15865
+[2024-12-04 17:36:33] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:33] Received signal 12 from process 15862
+[2024-12-04 17:36:33] Received signal 12 from process 15878
+[2024-12-04 17:36:33] Received signal 12 from process 15864
+[2024-12-04 17:36:33] Received signal 12 from process 15865
+[2024-12-04 17:36:33] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:33] Received signal 12 from process 15862
+[2024-12-04 17:36:33] Received signal 12 from process 15878
+[2024-12-04 17:36:33] Received signal 12 from process 15864
+[2024-12-04 17:36:33] Received signal 12 from process 15865
+[2024-12-04 17:36:33] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:33] Received signal 12 from process 15862
+[2024-12-04 17:36:33] Received signal 12 from process 15878
+[2024-12-04 17:36:33] Received signal 12 from process 15864
+[2024-12-04 17:36:34] Received signal 12 from process 15865
+[2024-12-04 17:36:34] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:34] Received signal 12 from process 15862
+[2024-12-04 17:36:34] Received signal 12 from process 15878
+[2024-12-04 17:36:34] Received signal 12 from process 15864
+[2024-12-04 17:36:34] Received signal 12 from process 15865
+[2024-12-04 17:36:34] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:34] Received signal 12 from process 15862
+[2024-12-04 17:36:34] Received signal 12 from process 15878
+[2024-12-04 17:36:34] Received signal 12 from process 15864
+[2024-12-04 17:36:34] Received signal 12 from process 15865
+[2024-12-04 17:36:34] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:34] Received signal 12 from process 15862
+[2024-12-04 17:36:34] Received signal 12 from process 15878
+[2024-12-04 17:36:34] Received signal 12 from process 15864
+[2024-12-04 17:36:34] Received signal 12 from process 15865
+[2024-12-04 17:36:34] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:34] Received signal 12 from process 15862
+[2024-12-04 17:36:34] Received signal 12 from process 15878
+[2024-12-04 17:36:34] Received signal 12 from process 15864
+[2024-12-04 17:36:34] Received signal 12 from process 15865
+[2024-12-04 17:36:34] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:34] Received signal 12 from process 15862
+[2024-12-04 17:36:34] Received signal 12 from process 15878
+[2024-12-04 17:36:34] Received signal 12 from process 15864
+[2024-12-04 17:36:34] Received signal 12 from process 15865
+[2024-12-04 17:36:34] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:34] Received signal 12 from process 15862
+[2024-12-04 17:36:34] Received signal 12 from process 15878
+[2024-12-04 17:36:34] Received signal 12 from process 15864
+[2024-12-04 17:36:34] Received signal 12 from process 15865
+[2024-12-04 17:36:34] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:34] Received signal 12 from process 15862
+[2024-12-04 17:36:34] Received signal 12 from process 15878
+[2024-12-04 17:36:34] Received signal 12 from process 15864
+[2024-12-04 17:36:34] Received signal 12 from process 15865
+[2024-12-04 17:36:34] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:34] Received signal 12 from process 15862
+[2024-12-04 17:36:34] Received signal 12 from process 15878
+[2024-12-04 17:36:34] Received signal 12 from process 15864
+[2024-12-04 17:36:34] Received signal 12 from process 15865
+[2024-12-04 17:36:34] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:34] Received signal 12 from process 15862
+[2024-12-04 17:36:34] Received signal 12 from process 15878
+[2024-12-04 17:36:34] Received signal 12 from process 15864
+[2024-12-04 17:36:34] Received signal 12 from process 15865
+[2024-12-04 17:36:34] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:34] Received signal 12 from process 15862
+[2024-12-04 17:36:34] Received signal 12 from process 15878
+[2024-12-04 17:36:34] Received signal 12 from process 15864
+[2024-12-04 17:36:35] Received signal 12 from process 15865
+[2024-12-04 17:36:35] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:35] Received signal 12 from process 15862
+[2024-12-04 17:36:35] Received signal 12 from process 15878
+[2024-12-04 17:36:35] Received signal 12 from process 15864
+[2024-12-04 17:36:35] Received signal 12 from process 15865
+[2024-12-04 17:36:35] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:35] Received signal 12 from process 15862
+[2024-12-04 17:36:35] Received signal 12 from process 15878
+[2024-12-04 17:36:35] Received signal 12 from process 15864
+[2024-12-04 17:36:35] Received signal 12 from process 15865
+[2024-12-04 17:36:35] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:35] Received signal 12 from process 15862
+[2024-12-04 17:36:35] Received signal 12 from process 15878
+[2024-12-04 17:36:35] Received signal 12 from process 15864
+[2024-12-04 17:36:35] Received signal 12 from process 15865
+[2024-12-04 17:36:35] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:35] Received signal 12 from process 15862
+[2024-12-04 17:36:35] Received signal 12 from process 15878
+[2024-12-04 17:36:35] Received signal 12 from process 15864
+[2024-12-04 17:36:35] Received signal 12 from process 15865
+[2024-12-04 17:36:35] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:35] Received signal 12 from process 15862
+[2024-12-04 17:36:35] Received signal 12 from process 15878
+[2024-12-04 17:36:35] Received signal 12 from process 15864
+[2024-12-04 17:36:35] Received signal 12 from process 15865
+[2024-12-04 17:36:35] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:35] Received signal 12 from process 15862
+[2024-12-04 17:36:35] Received signal 12 from process 15878
+[2024-12-04 17:36:35] Received signal 12 from process 15864
+[2024-12-04 17:36:35] Received signal 12 from process 15865
+[2024-12-04 17:36:35] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:35] Received signal 12 from process 15862
+[2024-12-04 17:36:35] Received signal 12 from process 15878
+[2024-12-04 17:36:35] Received signal 12 from process 15864
+[2024-12-04 17:36:35] Received signal 12 from process 15865
+[2024-12-04 17:36:35] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:35] Received signal 12 from process 15862
+[2024-12-04 17:36:35] Received signal 12 from process 15878
+[2024-12-04 17:36:35] Received signal 12 from process 15864
+[2024-12-04 17:36:35] Received signal 12 from process 15865
+[2024-12-04 17:36:35] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:35] Received signal 12 from process 15862
+[2024-12-04 17:36:35] Received signal 12 from process 15878
+[2024-12-04 17:36:35] Received signal 12 from process 15864
+[2024-12-04 17:36:35] Received signal 12 from process 15865
+[2024-12-04 17:36:35] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:35] Received signal 12 from process 15862
+[2024-12-04 17:36:35] Received signal 12 from process 15878
+[2024-12-04 17:36:35] Received signal 12 from process 15864
+[2024-12-04 17:36:36] Received signal 12 from process 15865
+[2024-12-04 17:36:36] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:36] Received signal 12 from process 15862
+[2024-12-04 17:36:36] Received signal 12 from process 15878
+[2024-12-04 17:36:36] Received signal 12 from process 15864
+[2024-12-04 17:36:36] Received signal 12 from process 15865
+[2024-12-04 17:36:36] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:36] Received signal 12 from process 15862
+[2024-12-04 17:36:36] Received signal 12 from process 15878
+[2024-12-04 17:36:36] Received signal 12 from process 15864
+[2024-12-04 17:36:36] Received signal 12 from process 15865
+[2024-12-04 17:36:36] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:36] Received signal 12 from process 15862
+[2024-12-04 17:36:36] Received signal 12 from process 15878
+[2024-12-04 17:36:36] Received signal 12 from process 15864
+[2024-12-04 17:36:36] Received signal 12 from process 15865
+[2024-12-04 17:36:36] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:36] Received signal 12 from process 15862
+[2024-12-04 17:36:36] Received signal 12 from process 15878
+[2024-12-04 17:36:36] Received signal 12 from process 15864
+[2024-12-04 17:36:36] Received signal 12 from process 15865
+[2024-12-04 17:36:36] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:36] Received signal 12 from process 15862
+[2024-12-04 17:36:36] Received signal 12 from process 15878
+[2024-12-04 17:36:36] Received signal 12 from process 15864
+[2024-12-04 17:36:36] Received signal 12 from process 15865
+[2024-12-04 17:36:36] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:36] Received signal 12 from process 15862
+[2024-12-04 17:36:36] Received signal 12 from process 15878
+[2024-12-04 17:36:36] Received signal 12 from process 15864
+[2024-12-04 17:36:36] Received signal 12 from process 15865
+[2024-12-04 17:36:36] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:36] Received signal 12 from process 15862
+[2024-12-04 17:36:36] Received signal 12 from process 15878
+[2024-12-04 17:36:36] Received signal 12 from process 15864
+[2024-12-04 17:36:36] Received signal 12 from process 15865
+[2024-12-04 17:36:36] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:36] Received signal 12 from process 15862
+[2024-12-04 17:36:36] Received signal 12 from process 15878
+[2024-12-04 17:36:36] Received signal 12 from process 15864
+[2024-12-04 17:36:36] Received signal 12 from process 15865
+[2024-12-04 17:36:36] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:36] Received signal 12 from process 15862
+[2024-12-04 17:36:36] Received signal 12 from process 15878
+[2024-12-04 17:36:36] Received signal 12 from process 15864
+[2024-12-04 17:36:37] Received signal 12 from process 15865
+[2024-12-04 17:36:37] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:37] Received signal 12 from process 15862
+[2024-12-04 17:36:37] Received signal 12 from process 15878
+[2024-12-04 17:36:37] Received signal 12 from process 15864
+[2024-12-04 17:36:37] Received signal 12 from process 15865
+[2024-12-04 17:36:37] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:37] Received signal 12 from process 15862
+[2024-12-04 17:36:37] Received signal 12 from process 15878
+[2024-12-04 17:36:37] Received signal 12 from process 15864
+[2024-12-04 17:36:37] Received signal 12 from process 15865
+[2024-12-04 17:36:37] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:37] Received signal 12 from process 15862
+[2024-12-04 17:36:37] Received signal 12 from process 15878
+[2024-12-04 17:36:37] Received signal 12 from process 15864
+[2024-12-04 17:36:37] Received signal 12 from process 15865
+[2024-12-04 17:36:37] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:37] Received signal 12 from process 15862
+[2024-12-04 17:36:37] Received signal 12 from process 15878
+[2024-12-04 17:36:37] Received signal 12 from process 15864
+[2024-12-04 17:36:37] Received signal 12 from process 15865
+[2024-12-04 17:36:37] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:37] Received signal 12 from process 15862
+[2024-12-04 17:36:37] Received signal 12 from process 15878
+[2024-12-04 17:36:37] Received signal 12 from process 15864
+[2024-12-04 17:36:37] Received signal 12 from process 15865
+[2024-12-04 17:36:37] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:37] Received signal 12 from process 15862
+[2024-12-04 17:36:37] Received signal 12 from process 15878
+[2024-12-04 17:36:37] Received signal 12 from process 15864
+[2024-12-04 17:36:37] Received signal 12 from process 15865
+[2024-12-04 17:36:37] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:37] Received signal 12 from process 15862
+[2024-12-04 17:36:37] Received signal 12 from process 15878
+[2024-12-04 17:36:37] Received signal 12 from process 15864
+[2024-12-04 17:36:37] Received signal 12 from process 15865
+[2024-12-04 17:36:37] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:37] Received signal 12 from process 15862
+[2024-12-04 17:36:37] Received signal 12 from process 15878
+[2024-12-04 17:36:37] Received signal 12 from process 15864
+[2024-12-04 17:36:37] Received signal 12 from process 15865
+[2024-12-04 17:36:37] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:37] Received signal 12 from process 15862
+[2024-12-04 17:36:37] Received signal 12 from process 15878
+[2024-12-04 17:36:37] Received signal 12 from process 15864
+[2024-12-04 17:36:37] Received signal 12 from process 15865
+[2024-12-04 17:36:37] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:37] Received signal 12 from process 15862
+[2024-12-04 17:36:37] Received signal 12 from process 15878
+[2024-12-04 17:36:37] Received signal 12 from process 15864
+[2024-12-04 17:36:38] Received signal 12 from process 15865
+[2024-12-04 17:36:38] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:38] Received signal 12 from process 15862
+[2024-12-04 17:36:38] Received signal 12 from process 15878
+[2024-12-04 17:36:38] Received signal 12 from process 15864
+[2024-12-04 17:36:38] Received signal 12 from process 15865
+[2024-12-04 17:36:38] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:38] Received signal 12 from process 15862
+[2024-12-04 17:36:38] Received signal 12 from process 15878
+[2024-12-04 17:36:38] Received signal 12 from process 15864
+[2024-12-04 17:36:38] Received signal 12 from process 15865
+[2024-12-04 17:36:38] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:38] Received signal 12 from process 15862
+[2024-12-04 17:36:38] Received signal 12 from process 15878
+[2024-12-04 17:36:38] Received signal 12 from process 15864
+[2024-12-04 17:36:38] Received signal 12 from process 15865
+[2024-12-04 17:36:38] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:38] Received signal 12 from process 15862
+[2024-12-04 17:36:38] Received signal 12 from process 15878
+[2024-12-04 17:36:38] Received signal 12 from process 15864
+[2024-12-04 17:36:38] Received signal 12 from process 15865
+[2024-12-04 17:36:38] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:38] Received signal 12 from process 15862
+[2024-12-04 17:36:38] Received signal 12 from process 15878
+[2024-12-04 17:36:38] Received signal 12 from process 15864
+[2024-12-04 17:36:38] Received signal 12 from process 15865
+[2024-12-04 17:36:38] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:38] Received signal 12 from process 15862
+[2024-12-04 17:36:38] Received signal 12 from process 15878
+[2024-12-04 17:36:38] Received signal 12 from process 15864
+[2024-12-04 17:36:38] Received signal 12 from process 15865
+[2024-12-04 17:36:38] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:38] Received signal 12 from process 15862
+[2024-12-04 17:36:38] Received signal 12 from process 15878
+[2024-12-04 17:36:38] Received signal 12 from process 15864
+[2024-12-04 17:36:38] Received signal 12 from process 15865
+[2024-12-04 17:36:38] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:38] Received signal 12 from process 15862
+[2024-12-04 17:36:38] Received signal 12 from process 15878
+[2024-12-04 17:36:38] Received signal 12 from process 15864
+[2024-12-04 17:36:38] Received signal 12 from process 15865
+[2024-12-04 17:36:38] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:38] Received signal 12 from process 15862
+[2024-12-04 17:36:38] Received signal 12 from process 15878
+[2024-12-04 17:36:38] Received signal 12 from process 15864
+[2024-12-04 17:36:38] Received signal 12 from process 15865
+[2024-12-04 17:36:38] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:38] Received signal 12 from process 15862
+[2024-12-04 17:36:38] Received signal 12 from process 15878
+[2024-12-04 17:36:38] Received signal 12 from process 15864
+[2024-12-04 17:36:39] Received signal 12 from process 15865
+[2024-12-04 17:36:39] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:39] Received signal 12 from process 15862
+[2024-12-04 17:36:39] Received signal 12 from process 15878
+[2024-12-04 17:36:39] Received signal 12 from process 15864
+[2024-12-04 17:36:39] Received signal 12 from process 15865
+[2024-12-04 17:36:39] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:39] Received signal 12 from process 15862
+[2024-12-04 17:36:39] Received signal 12 from process 15878
+[2024-12-04 17:36:39] Received signal 12 from process 15864
+[2024-12-04 17:36:39] Received signal 12 from process 15865
+[2024-12-04 17:36:39] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:39] Received signal 12 from process 15862
+[2024-12-04 17:36:39] Received signal 12 from process 15878
+[2024-12-04 17:36:39] Received signal 12 from process 15864
+[2024-12-04 17:36:39] Received signal 12 from process 15865
+[2024-12-04 17:36:39] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:39] Received signal 12 from process 15862
+[2024-12-04 17:36:39] Received signal 12 from process 15878
+[2024-12-04 17:36:39] Received signal 12 from process 15864
+[2024-12-04 17:36:39] Received signal 12 from process 15865
+[2024-12-04 17:36:39] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:39] Received signal 12 from process 15862
+[2024-12-04 17:36:39] Received signal 12 from process 15878
+[2024-12-04 17:36:39] Received signal 12 from process 15864
+[2024-12-04 17:36:39] Received signal 12 from process 15865
+[2024-12-04 17:36:39] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:39] Received signal 12 from process 15862
+[2024-12-04 17:36:39] Received signal 12 from process 15878
+[2024-12-04 17:36:39] Received signal 12 from process 15864
+[2024-12-04 17:36:39] Received signal 12 from process 15865
+[2024-12-04 17:36:39] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:39] Received signal 12 from process 15862
+[2024-12-04 17:36:39] Received signal 12 from process 15878
+[2024-12-04 17:36:39] Received signal 12 from process 15864
+[2024-12-04 17:36:39] Received signal 12 from process 15865
+[2024-12-04 17:36:39] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:39] Received signal 12 from process 15862
+[2024-12-04 17:36:39] Received signal 12 from process 15878
+[2024-12-04 17:36:39] Received signal 12 from process 15864
+[2024-12-04 17:36:39] Received signal 12 from process 15865
+[2024-12-04 17:36:39] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:39] Received signal 12 from process 15862
+[2024-12-04 17:36:39] Received signal 12 from process 15878
+[2024-12-04 17:36:39] Received signal 12 from process 15864
+[2024-12-04 17:36:39] Received signal 12 from process 15865
+[2024-12-04 17:36:39] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:39] Received signal 12 from process 15862
+[2024-12-04 17:36:39] Received signal 12 from process 15878
+[2024-12-04 17:36:39] Received signal 12 from process 15864
+[2024-12-04 17:36:40] Received signal 12 from process 15865
+[2024-12-04 17:36:40] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:40] Received signal 12 from process 15862
+[2024-12-04 17:36:40] Received signal 12 from process 15878
+[2024-12-04 17:36:40] Received signal 12 from process 15864
+[2024-12-04 17:36:40] Received signal 12 from process 15865
+[2024-12-04 17:36:40] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:40] Received signal 12 from process 15862
+[2024-12-04 17:36:40] Received signal 12 from process 15878
+[2024-12-04 17:36:40] Received signal 12 from process 15864
+[2024-12-04 17:36:40] Received signal 12 from process 15865
+[2024-12-04 17:36:40] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:40] Received signal 12 from process 15862
+[2024-12-04 17:36:40] Received signal 12 from process 15878
+[2024-12-04 17:36:40] Received signal 12 from process 15864
+[2024-12-04 17:36:40] Received signal 12 from process 15865
+[2024-12-04 17:36:40] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:40] Received signal 12 from process 15862
+[2024-12-04 17:36:40] Received signal 12 from process 15878
+[2024-12-04 17:36:40] Received signal 12 from process 15864
+[2024-12-04 17:36:40] Received signal 12 from process 15865
+[2024-12-04 17:36:40] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:40] Received signal 12 from process 15862
+[2024-12-04 17:36:40] Received signal 12 from process 15878
+[2024-12-04 17:36:40] Received signal 12 from process 15864
+[2024-12-04 17:36:40] Received signal 12 from process 15865
+[2024-12-04 17:36:40] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:40] Received signal 12 from process 15862
+[2024-12-04 17:36:40] Received signal 12 from process 15878
+[2024-12-04 17:36:40] Received signal 12 from process 15864
+[2024-12-04 17:36:40] Received signal 12 from process 15865
+[2024-12-04 17:36:40] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:40] Received signal 12 from process 15862
+[2024-12-04 17:36:40] Received signal 12 from process 15878
+[2024-12-04 17:36:40] Received signal 12 from process 15864
+[2024-12-04 17:36:40] Received signal 12 from process 15865
+[2024-12-04 17:36:40] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:40] Received signal 12 from process 15862
+[2024-12-04 17:36:40] Received signal 12 from process 15878
+[2024-12-04 17:36:40] Received signal 12 from process 15864
+[2024-12-04 17:36:40] Received signal 12 from process 15865
+[2024-12-04 17:36:40] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:40] Received signal 12 from process 15862
+[2024-12-04 17:36:40] Received signal 12 from process 15878
+[2024-12-04 17:36:40] Received signal 12 from process 15864
+[2024-12-04 17:36:40] Received signal 12 from process 15865
+[2024-12-04 17:36:40] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:40] Received signal 12 from process 15862
+[2024-12-04 17:36:40] Received signal 12 from process 15878
+[2024-12-04 17:36:40] Received signal 12 from process 15864
+[2024-12-04 17:36:41] Received signal 12 from process 15865
+[2024-12-04 17:36:41] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:41] Received signal 12 from process 15862
+[2024-12-04 17:36:41] Received signal 12 from process 15878
+[2024-12-04 17:36:41] Received signal 12 from process 15864
+[2024-12-04 17:36:41] Received signal 12 from process 15865
+[2024-12-04 17:36:41] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:41] Received signal 12 from process 15862
+[2024-12-04 17:36:41] Received signal 12 from process 15878
+[2024-12-04 17:36:41] Received signal 12 from process 15864
+[2024-12-04 17:36:41] Received signal 12 from process 15865
+[2024-12-04 17:36:41] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:41] Received signal 12 from process 15862
+[2024-12-04 17:36:41] Received signal 12 from process 15878
+[2024-12-04 17:36:41] Received signal 12 from process 15864
+[2024-12-04 17:36:41] Received signal 12 from process 15865
+[2024-12-04 17:36:41] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:41] Received signal 12 from process 15862
+[2024-12-04 17:36:41] Received signal 12 from process 15878
+[2024-12-04 17:36:41] Received signal 12 from process 15864
+[2024-12-04 17:36:41] Received signal 12 from process 15865
+[2024-12-04 17:36:41] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:41] Received signal 12 from process 15862
+[2024-12-04 17:36:41] Received signal 12 from process 15878
+[2024-12-04 17:36:41] Received signal 12 from process 15864
+[2024-12-04 17:36:41] Received signal 12 from process 15865
+[2024-12-04 17:36:41] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:41] Received signal 12 from process 15862
+[2024-12-04 17:36:41] Received signal 12 from process 15878
+[2024-12-04 17:36:41] Received signal 12 from process 15864
+[2024-12-04 17:36:41] Received signal 12 from process 15865
+[2024-12-04 17:36:41] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:41] Received signal 12 from process 15862
+[2024-12-04 17:36:41] Received signal 12 from process 15878
+[2024-12-04 17:36:41] Received signal 12 from process 15864
+[2024-12-04 17:36:41] Received signal 12 from process 15865
+[2024-12-04 17:36:41] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:41] Received signal 12 from process 15862
+[2024-12-04 17:36:41] Received signal 12 from process 15878
+[2024-12-04 17:36:41] Received signal 12 from process 15864
+[2024-12-04 17:36:41] Received signal 12 from process 15865
+[2024-12-04 17:36:41] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:41] Received signal 12 from process 15862
+[2024-12-04 17:36:41] Received signal 12 from process 15878
+[2024-12-04 17:36:41] Received signal 12 from process 15864
+[2024-12-04 17:36:41] Received signal 12 from process 15865
+[2024-12-04 17:36:41] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:41] Received signal 12 from process 15862
+[2024-12-04 17:36:41] Received signal 12 from process 15878
+[2024-12-04 17:36:41] Received signal 12 from process 15864
+[2024-12-04 17:36:42] Received signal 12 from process 15865
+[2024-12-04 17:36:42] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:42] Received signal 12 from process 15862
+[2024-12-04 17:36:42] Received signal 12 from process 15878
+[2024-12-04 17:36:42] Received signal 12 from process 15864
+[2024-12-04 17:36:42] Received signal 12 from process 15865
+[2024-12-04 17:36:42] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:42] Received signal 12 from process 15862
+[2024-12-04 17:36:42] Received signal 12 from process 15878
+[2024-12-04 17:36:42] Received signal 12 from process 15864
+[2024-12-04 17:36:42] Received signal 12 from process 15865
+[2024-12-04 17:36:42] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:42] Received signal 12 from process 15862
+[2024-12-04 17:36:42] Received signal 12 from process 15878
+[2024-12-04 17:36:42] Received signal 12 from process 15864
+[2024-12-04 17:36:42] Received signal 12 from process 15865
+[2024-12-04 17:36:42] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:42] Received signal 12 from process 15862
+[2024-12-04 17:36:42] Received signal 12 from process 15878
+[2024-12-04 17:36:42] Received signal 12 from process 15864
+[2024-12-04 17:36:42] Received signal 12 from process 15865
+[2024-12-04 17:36:42] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:42] Received signal 12 from process 15862
+[2024-12-04 17:36:42] Received signal 12 from process 15878
+[2024-12-04 17:36:42] Received signal 12 from process 15864
+[2024-12-04 17:36:42] Received signal 12 from process 15865
+[2024-12-04 17:36:42] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:42] Received signal 12 from process 15862
+[2024-12-04 17:36:42] Received signal 12 from process 15878
+[2024-12-04 17:36:42] Received signal 12 from process 15864
+[2024-12-04 17:36:42] Received signal 12 from process 15865
+[2024-12-04 17:36:42] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:42] Received signal 12 from process 15862
+[2024-12-04 17:36:42] Received signal 12 from process 15878
+[2024-12-04 17:36:42] Received signal 12 from process 15864
+[2024-12-04 17:36:42] Received signal 12 from process 15865
+[2024-12-04 17:36:42] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:42] Received signal 12 from process 15862
+[2024-12-04 17:36:42] Received signal 12 from process 15878
+[2024-12-04 17:36:42] Received signal 12 from process 15864
+[2024-12-04 17:36:42] Received signal 12 from process 15865
+[2024-12-04 17:36:42] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:42] Received signal 12 from process 15862
+[2024-12-04 17:36:42] Received signal 12 from process 15878
+[2024-12-04 17:36:42] Received signal 12 from process 15864
+[2024-12-04 17:36:42] Received signal 12 from process 15865
+[2024-12-04 17:36:42] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:42] Received signal 12 from process 15862
+[2024-12-04 17:36:42] Received signal 12 from process 15878
+[2024-12-04 17:36:42] Received signal 12 from process 15864
+[2024-12-04 17:36:43] Received signal 12 from process 15865
+[2024-12-04 17:36:43] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:43] Received signal 12 from process 15862
+[2024-12-04 17:36:43] Received signal 12 from process 15878
+[2024-12-04 17:36:43] Received signal 12 from process 15864
+[2024-12-04 17:36:43] Received signal 12 from process 15865
+[2024-12-04 17:36:43] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:43] Received signal 12 from process 15862
+[2024-12-04 17:36:43] Received signal 12 from process 15878
+[2024-12-04 17:36:43] Received signal 12 from process 15864
+[2024-12-04 17:36:43] Received signal 12 from process 15865
+[2024-12-04 17:36:43] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:43] Received signal 12 from process 15862
+[2024-12-04 17:36:43] Received signal 12 from process 15878
+[2024-12-04 17:36:43] Received signal 12 from process 15864
+[2024-12-04 17:36:43] Received signal 12 from process 15865
+[2024-12-04 17:36:43] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:43] Received signal 12 from process 15862
+[2024-12-04 17:36:43] Received signal 12 from process 15878
+[2024-12-04 17:36:43] Received signal 12 from process 15864
+[2024-12-04 17:36:43] Received signal 12 from process 15865
+[2024-12-04 17:36:43] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:43] Received signal 12 from process 15862
+[2024-12-04 17:36:43] Received signal 12 from process 15878
+[2024-12-04 17:36:43] Received signal 12 from process 15864
+[2024-12-04 17:36:43] Received signal 12 from process 15865
+[2024-12-04 17:36:43] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:43] Received signal 12 from process 15862
+[2024-12-04 17:36:43] Received signal 12 from process 15878
+[2024-12-04 17:36:43] Received signal 12 from process 15864
+[2024-12-04 17:36:43] Received signal 12 from process 15865
+[2024-12-04 17:36:43] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:43] Received signal 12 from process 15862
+[2024-12-04 17:36:43] Received signal 12 from process 15878
+[2024-12-04 17:36:43] Received signal 12 from process 15864
+[2024-12-04 17:36:43] Received signal 12 from process 15865
+[2024-12-04 17:36:43] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:43] Received signal 12 from process 15862
+[2024-12-04 17:36:43] Received signal 12 from process 15878
+[2024-12-04 17:36:43] Received signal 12 from process 15864
+[2024-12-04 17:36:43] Received signal 12 from process 15865
+[2024-12-04 17:36:43] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:43] Received signal 12 from process 15862
+[2024-12-04 17:36:43] Received signal 12 from process 15878
+[2024-12-04 17:36:43] Received signal 12 from process 15864
+[2024-12-04 17:36:44] Received signal 12 from process 15865
+[2024-12-04 17:36:44] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:44] Received signal 12 from process 15862
+[2024-12-04 17:36:44] Received signal 12 from process 15878
+[2024-12-04 17:36:44] Received signal 12 from process 15864
+[2024-12-04 17:36:44] Received signal 12 from process 15865
+[2024-12-04 17:36:44] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:44] Received signal 12 from process 15862
+[2024-12-04 17:36:44] Received signal 12 from process 15878
+[2024-12-04 17:36:44] Received signal 12 from process 15864
+[2024-12-04 17:36:44] Received signal 12 from process 15865
+[2024-12-04 17:36:44] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:44] Received signal 12 from process 15862
+[2024-12-04 17:36:44] Received signal 12 from process 15878
+[2024-12-04 17:36:44] Received signal 12 from process 15864
+[2024-12-04 17:36:44] Received signal 12 from process 15865
+[2024-12-04 17:36:44] Signals sent to processes: Server(0), Window(0), KeyboardManager(0), DroneDynamics(0)
+[2024-12-04 17:36:44] Received signal 12 from process 15862
+[2024-12-04 17:36:44] Received signal 12 from process 15878
+[2024-12-04 17:36:44] Received signal 12 from process 15864
